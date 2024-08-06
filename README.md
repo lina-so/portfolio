@@ -1,7 +1,7 @@
 
-## My Portfolio
-### cover letter
-### projects
-### contact
+# My Portfolio
+### - cover letter
+### - projects
+### - contact
 
 
